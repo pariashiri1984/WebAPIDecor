@@ -22,7 +22,7 @@ namespace WebAPIDecor.Controllers
     public class MailController : ControllerBase
     {
         string adminEmail="paria.shiri20@gmail.com";
-        string adminPassword="fitne$$.by.p@ri@";
+        string adminPassword="xxxxxxxx";
 
         //post api/Mail/SendEmail
         [HttpPost]
