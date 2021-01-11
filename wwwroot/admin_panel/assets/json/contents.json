@@ -1,0 +1,47 @@
+
+  {
+    "pages":[
+      {
+      "en-title": "curtain",
+      "title":"پرده",
+      "categories":["زبرا","عمودی","افقی","سیلوئت","شید","پرده تصویری","شرشره"],
+      "folderUrl":"images/curtain/"
+      }
+    ,
+    {
+      "en-title": "floorCovering",
+      "title":"کفپوش",
+      "categories":["تجاری","اداری","ورزشی","خانگی"],
+      "folderUrl":"images/floorCovering/"
+      }
+      ,
+      {
+        "en-title": "parquet",
+        "title":"پارکت ",
+        "categories":["تجاری","،اداری","ورزشی","خانگی"],
+        "folderUrl":"images/parquet/"
+        }
+        ,
+        {
+          "en-title": "falseCeiling",
+          "title":"سقف کاذب",
+          "categories":["پی وی سی","پلی کربنات دوغی","کلیک 60 در   60 گچی","پلکسی پنل","سی ان سی"],
+          "folderUrl":"images/falseCeiling/"
+        }
+        ,
+        {
+          "en-title": "wallPlugs",
+          "title":"دیوارپوش ",
+          "categories":["پی وی سی","ام دی اف","پل استایرن  "],
+          "folderUrl":"images/wallPlugs/"
+        }
+        ,
+        {
+        "en-title": "knauf",
+        "title":"کناف",
+        "categories":["ساده","دکوراتیو","فلاورباکس ","تی وی روم"],
+        "folderUrl":"images/knauf/"
+      }
+    ]
+  }
+
